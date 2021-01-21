@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Fahim Anayet
 #### I'm a full stack Web Developer
-![I'm a full stack Web Developer](https://pbs.twimg.com/profile_images/1092959726114004992/oU3ZhUc6_400x400.jpg)
-
 
 Skills: Laravel / Nuxt / VUE JS / Django / HTML / CSS
 
@@ -18,4 +16,4 @@ Skills: Laravel / Nuxt / VUE JS / Django / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FahimAnayet&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/FahimAnayet)  
+![Profile views](https://gpvc.arturio.dev/FahimAnayet)  [Profile views](https://gpvc.arturio.dev/FahimAnayet)  
