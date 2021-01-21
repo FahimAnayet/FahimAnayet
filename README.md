@@ -3,7 +3,7 @@
 
 Skills: Laravel / Nuxt / VUE JS / Django / HTML / CSS
 
-<p align="center"> ![Profile views](https://gpvc.arturio.dev/FahimAnayet) </p>
+<div align="center"> ![Profile views](https://gpvc.arturio.dev/FahimAnayet) </div>
 
 - 🔭 I’m currently working on a Laravel blog site 
 - 🌱 I’m currently learning Networking 
