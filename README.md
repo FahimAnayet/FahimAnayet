@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there 👋, my name is Fahim Anayet </h1>
 <h3 align="center"> I'm a full stack Web Developer </h3>
 
-Skills: Laravel / Nuxt / VUE JS / Django / HTML / CSS
+<h6 align="center"> Skills: Laravel / Nuxt / VUE JS / Django / HTML / CSS </h6>
 
-<div align="center"> ![Profile views](https://gpvc.arturio.dev/FahimAnayet) </div>
+![Profile views](https://gpvc.arturio.dev/FahimAnayet)
 
 - 🔭 I’m currently working on a Laravel blog site 
 - 🌱 I’m currently learning Networking 
