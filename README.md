@@ -2,7 +2,7 @@
 <h3 align="center"> I'm a full stack Web Developer </h3>
 
 <h6 align="center"> Skills: Laravel / Nuxt / VUE JS / Django / HTML / CSS </h6>
-
+<p align="center"> <img src="https://gpvc.arturio.dev/FahimAnayet" /> </p>
 ![Profile views](https://gpvc.arturio.dev/FahimAnayet)
 
 - 🔭 I’m currently working on a Laravel blog site 
