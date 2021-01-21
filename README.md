@@ -1,7 +1,9 @@
-### Hi there 👋, my name is Fahim Anayet
-#### I'm a full stack Web Developer
+<h1 align="center"> Hi there 👋, my name is Fahim Anayet </h1>
+<h3 align="center"> I'm a full stack Web Developer </h3>
 
 Skills: Laravel / Nuxt / VUE JS / Django / HTML / CSS
+
+<p align="center"> ![Profile views](https://gpvc.arturio.dev/FahimAnayet) </p>
 
 - 🔭 I’m currently working on a Laravel blog site 
 - 🌱 I’m currently learning Networking 
@@ -15,5 +17,4 @@ Skills: Laravel / Nuxt / VUE JS / Django / HTML / CSS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FahimAnayet&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/FahimAnayet)  [Profile views](https://gpvc.arturio.dev/FahimAnayet)  
+  
