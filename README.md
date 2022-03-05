@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, my name is Fahim Anayet </h1>
-<h3 align="center"> I'm a full stack Web Developer </h3>
+<h3 align="center"> I'm a Learner / Researcher </h3>
 
-<h6 align="center"> Skills: Laravel / Nuxt / VUE JS / Django / HTML / CSS </h6>
+<h6 align="center"> Skills: Python / Laravel / C </h6>
 <p align="center"> <img src="https://gpvc.arturio.dev/FahimAnayet" /> </p>
 
 
