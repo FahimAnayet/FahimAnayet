@@ -1,24 +1,52 @@
-<h1 align="center"> Hi there 👋, my name is Fahim Anayet </h1>
+<h1 align="center">Hi there, I'm Fahim Anayet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <h3 align="center"> I'm a Learner / Researcher </h3>
 
-<h6 align="center"> Skills: Python / Laravel / C </h6>
-<p align="center"> <img src="https://gpvc.arturio.dev/FahimAnayet" /> </p>
+<h6 align="center"> Skills: Python / C++ / Rust </h6>
 
+<h2 align="center"> Latest 👁 </h2>
 
-- 🔭 I’m currently working on a Laravel blog site [Deprecated]
+- ~🔭 I’m currently working on a Laravel blog site~
 - 🔭 I’m currently working on a Research Paper
-- 🌱 I’m currently learning Networking [Deprecated]
+- ~🌱 I’m currently learning Networking~
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Any developer [Happy]
-- 📫 How to reach me: fahimanayet@aol.com 
-- ⚡ Fun fact: I'm a lazy [I mean super lazy]
 
+<h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FahimAnayet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/fahimanayet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fahim-anayet-460246194//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fahimanayet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.fahimanayet.me)  
+```zsh
+> neofetch
+```
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAnayet&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+```python
+          My Profile
+-------------------------------
+      Name: Fahim Anayet
+    WhoamI: Masters Student 🏫.
+    Gender: Male.
+     Loves: Videogames 🎮, technology 🚀.
+   Hobbies: Gaming, Coding while I am listening music 🎶.
+ Languages: Bash, C++, Python.
+  Learning: Rust.
+     Email: important@critical.aleeas.com
+ Portfolio: https://fahimanayet.github.io
+   FunFact: I'm a lazy [I mean super lazy]
+```
+<br>
+<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
+<div> 
+<p align = "center">
+  <a href="https://github.com/FahimAnayet"><img alt="YT-Advanced's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=FahimAnayet&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&hide=html&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/FahimAnayet"><img alt="FahimAnayet's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=FahimAnayet&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&rank_icon=github&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28" height="192px"/></a>
+</p>
+</div>
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FahimAnayet&show_icons=true)  
+<h2 align="center"> My contributions game 🐍🎮</h2>
+
+![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake.svggh-light-mode-only)
+<br>
+
   
