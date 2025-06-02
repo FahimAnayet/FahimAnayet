@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Fahim Anayet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <h3 align="center"> I'm a Learner / Researcher </h3>
 
-<h6 align="center"> Skills: Python / C++ / Rust </h6>
+<h6 align="center"> Skills: Python / C++ / Rust / Zig(New Fav) [LOVE] </h6>
 
 <h2 align="center"> Latest 👁 </h2>
 
 - ~🔭 I’m currently working on a Laravel blog site~
 - 🔭 I’m currently working on a Research Paper
 - ~🌱 I’m currently learning Networking~
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning & Data Acience
 - 👯 I’m looking to collaborate on Any developer [Happy]
 
 <h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
@@ -26,11 +26,11 @@
     WhoamI: Masters Student 🏫.
     Gender: Male.
      Loves: Videogames 🎮, technology 🚀.
-   Hobbies: Gaming, Coding while I am listening music 🎶.
+   Hobbies: Guiter, Gaming, Coding while I am listening music 🎶.
  Languages: Bash, C++, Python.
-  Learning: Rust.
+  Learning: Rust & Zig.
      Email: important@critical.aleeas.com
- Portfolio: https://fahimanayet.github.io
+ Portfolio: https://fahimanayet.github.io (haven't updated for a long time! [I'm Lazy])
    FunFact: I'm a lazy [I mean super lazy]
 ```
 <br>
