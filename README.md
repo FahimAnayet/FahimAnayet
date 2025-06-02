@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Fahim Anayet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <h3 align="center"> I'm a Learner / Researcher </h3>
 
-<h6 align="center"> Skills: Python / C++ / Rust / Zig(New Fav) [LOVE] </h6>
+<h6 align="center"> Skills: Python / C++ / Rust / Zig(New Fav 😍) </h6>
 
 <h2 align="center"> Latest 👁 </h2>
 
@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a Research Paper
 - ~🌱 I’m currently learning Networking~
 - 🌱 I’m currently learning Machine Learning & Data Acience
-- 👯 I’m looking to collaborate on Any developer [Happy]
+- 👯 I’m looking to collaborate on Any developer [😊]
 
 <h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
 
